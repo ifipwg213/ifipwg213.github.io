@@ -1,0 +1,6 @@
+# local deployment cruft for testing
+.bundle/
+.sass-cache/
+Gemfile.lock
+_site/
+vendor/
