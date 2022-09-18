@@ -46,8 +46,10 @@ exclude:
   - vendor/
   - README.md
   - LICENSE
+  - _layouts/README.md
 
 header_pages:
   - index.md
   - events.md
   - members.md
+  - news.md
