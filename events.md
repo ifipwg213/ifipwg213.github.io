@@ -10,7 +10,8 @@ notably the yearly conference on Open Source Systems, established in 2005.
 
 ## Open Source Systems Conferences
 
-- [OSS 2022](https://oss2022.github.io/): 18th International Conference on Open Source Systems: Madrid, Spain, 7-9 September 2022
+- [OSS 2022](https://oss2022.github.io/): 18th International Conference on Open Source Systems: Madrid, Spain, 7-9 September 2022 (co-located with [OpenSym 2022](https://oss2022.github.io/))
+  \[[Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3555051)\]
 - [OSS 2021](https://conf.researchr.org/home/oss-2021/): 17th International Conference on Open Source Systems: Lahti, Finland, 12-13 May 2021
   \[[Proceedings](https://link.springer.com/book/10.1007/978-3-030-75251-4)\]
 - [OSS 2020](https://oss2020.website/): 16th International Conference on Open Source Systems: on-line due to COVID-19 (originally Innopolis, Russia), 12-14 May 2020
