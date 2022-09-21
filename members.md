@@ -14,6 +14,7 @@ permalink: /members/
 ## Members
 
 1. Alberto Sillitti
+1. Amel Charleux
 1. Bjorn Lundell
 1. Brian Fitzgerald
 1. Davide Taibi
@@ -23,20 +24,19 @@ permalink: /members/
 1. Giancarlo Succi
 1. Greg Madey
 1. Gregorio Robles
+1. Igor Steinmacher
 1. Imed Hammouda
 1. Jean-Michel Dalle
 1. Jesús Gonzalez-Barahona
 1. Jonas Gamalielsson
 1. Joseph Feller
-1. Amel Charleux
 1. Kevin Crowston
-1. Igor Steinmacher
 1. Paolo Pumilia
 1. Pär Ågerfalk
 1. Rishab Aiyer Ghosh
 1. Scott Hissam
 1. Stefan Koch
+1. Stefano Zacchiroli
 1. Tommi Mikkonen
 1. Tony Wasserman
 1. Walt Scacchi
-1. Stefano Zacchiroli
