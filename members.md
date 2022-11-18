@@ -40,3 +40,13 @@ permalink: /members/
 1. Tommi Mikkonen
 1. Tony Wasserman
 1. Walt Scacchi
+
+
+## Communication
+
+To communicate to and between WG members we have setup two private mailing lists, both hosted on Google Groups:
+
+- The [ifipwg213 Google Group](https://groups.google.com/g/ifipwg213): It is an announcement only group that the officers will use (sparingly) to communicate to group members.
+
+- The [companion ifipwg213-members Google Group](https://groups.google.com/g/ifipwg213-members): It will be used for private Working Group members' discussions. The input and feedback there will be very useful, so if you are a member, please consider joining that group.
+
