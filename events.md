@@ -10,6 +10,7 @@ notably the yearly conference on Open Source Systems, established in 2005.
 
 ## Open Source Systems Conferences
 
+- [OpenSym + OSS 2023 Gather Together](https://gsyc.urjc.es/~grex/2023-opensym-oss-gtoe/) ([archived](https://web.archive.org/web/20230908153211/https://gsyc.urjc.es/~grex/2023-opensym-oss-gtoe/))
 - [OSS 2022](https://oss2022.github.io/): 18th International Conference on Open Source Systems: Madrid, Spain, 7-9 September 2022 (co-located with [OpenSym 2022](https://oss2022.github.io/))
   \[[Proceedings](https://dl.acm.org/doi/proceedings/10.1145/3555051)\]
 - [OSS 2021](https://conf.researchr.org/home/oss-2021/): 17th International Conference on Open Source Systems: Lahti, Finland, 12-13 May 2021
